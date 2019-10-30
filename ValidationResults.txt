@@ -1,0 +1,21 @@
+2019-10-30 21:18:29.105415
+NORMAL:
+Parameters found: {'criterion': 'gini', 'max_depth': 9, 'max_features': 7, 'n_estimators': 900}
+Accuracy: 0.812133072407045
+F1_Score :0.5862068965517242
+
+
+2019-10-30 21:45:26.131260
+SMOTE:
+Parameters found: {'criterion': 'gini', 'max_depth': 9, 'max_features': 7, 'n_estimators': 1500}
+Accuracy: 0.812866927592955
+F1_Score :0.5888202096210696
+
+
+2019-10-30 21:58:50.339114
+NEARMISS:
+Parameters found: {'criterion': 'entropy', 'max_depth': 7, 'max_features': 5, 'n_estimators': 1500}
+Accuracy: 0.5839652641878669
+F1_Score :0.48387830968818757
+
+
